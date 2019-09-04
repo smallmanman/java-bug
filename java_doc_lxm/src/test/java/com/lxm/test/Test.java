@@ -1,4 +1,4 @@
-package com.bjsxt.test;
+package com.lxm.test;
 
 public class Test {
     public static void main(String[] args) {
